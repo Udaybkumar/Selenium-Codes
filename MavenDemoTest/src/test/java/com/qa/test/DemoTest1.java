@@ -7,7 +7,7 @@ import junit.framework.Assert;
 public class DemoTest1 {
 
 	@Test
-	public void test5() {
+	public void VeidateIntegers() {
 		int a = 200;
 		int b = 100;
 		if(a>b) {
