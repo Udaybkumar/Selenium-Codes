@@ -9,9 +9,10 @@ public class DemoTest1 {
 	@Test
 	public void test5() {
 		int a = 200;
-		int b = 200;
-		Assert.assertEquals(a, b);
-		System.out.println("Validate that user is logout");
+		int b = 100;
+		if(a>b) {
+		System.out.println("Its true ,a is grater then b");
+		}
 		
 	}
 
