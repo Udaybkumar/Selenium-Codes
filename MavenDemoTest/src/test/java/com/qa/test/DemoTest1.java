@@ -8,8 +8,8 @@ public class DemoTest1 {
 
 	@Test
 	public void test5() {
-		int a = 20;
-		int b = 20;
+		int a = 200;
+		int b = 200;
 		Assert.assertEquals(a, b);
 		System.out.println("Validate that user is logout");
 		
