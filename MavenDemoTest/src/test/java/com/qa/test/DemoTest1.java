@@ -11,7 +11,7 @@ public class DemoTest1 {
 		int a = 10;
 		int b = 10;
 		Assert.assertEquals(a, b);
-		System.out.println("Validate that user now is logout");
+		System.out.println("Validate that user now is ");
 	}
 }
 	
