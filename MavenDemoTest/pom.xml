@@ -44,12 +44,6 @@
 			</plugins>
 		</pluginManagement>
 	</build>
-
-
-
-
-
-
 	<dependencies>
 		<dependency>
 			<groupId>org.testng</groupId>
